@@ -1,1 +1,2 @@
 pyTelegramBotAPI
+telebot~=0.0.3
